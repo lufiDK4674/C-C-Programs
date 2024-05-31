@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710166160 source:d:\programming\c and c++\computer graphics\bresenhamline\main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+

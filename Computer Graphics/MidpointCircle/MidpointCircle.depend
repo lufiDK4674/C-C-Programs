@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710167170 source:d:\programming\c and c++\computer graphics\midpointcircle\main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+
